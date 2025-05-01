@@ -4,7 +4,7 @@ const Home = () => {
   return ( 
   <div className="flex min-h-screen items-center justify-center">
     <Button variant="destructive">
-      Click me
+      Click mee
     </Button>
   </div> );
 }
